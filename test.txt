@@ -1,3 +1,0 @@
-Test!
-(: Getting familiar with GIT :)
-New line
